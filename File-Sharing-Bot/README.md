@@ -1,11 +1,9 @@
-<p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
-
 <p align="center">
-  <a href="https://github.com/kenkannih/File-Sharing-Bot">
+  <a href="https://github.com/momochannn/MomoFileSaver">
     <img src="https://telegra.ph/file/e4ee7900b7edcdd92051f.jpg" width ="250">
   </a>
 <p align="center">
-  <a href="https://github.com/kenkannih/File-Sharing-Bot">
+  <a href="https://github.com/momochannn/MomoFileSaver">
     <img src="https://telegra.ph/file/a112fce4e23d859badcd4.jpg" width ="250">
   </a>
 
@@ -36,7 +34,7 @@ Telegram Bot untuk menyimpan Postingan dan Dokumen dan dapat diakses dengan Taut
 
 ### Installation
 #### Buat di heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kenkannih/File-Sharing-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/momochannn/MomoFileSaver)</br>
 
 
 #### JALANKAN DI TERMUX
